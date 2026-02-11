@@ -1,0 +1,6 @@
+{
+	"appId": "com.dkwin.app",
+	"appName": "dkwin",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
